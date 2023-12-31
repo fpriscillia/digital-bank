@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiBa_Project UAS", "DiBa_Project UAS.csproj", "{E1C32665-50BD-4620-BC54-D154E0E2822A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diBa_LIB", "..\diBa_LIB\diBa_LIB.csproj", "{41C8718A-6C48-4BF1-991B-3B6B73DE87E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1C32665-50BD-4620-BC54-D154E0E2822A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C32665-50BD-4620-BC54-D154E0E2822A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C32665-50BD-4620-BC54-D154E0E2822A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C32665-50BD-4620-BC54-D154E0E2822A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C8718A-6C48-4BF1-991B-3B6B73DE87E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C8718A-6C48-4BF1-991B-3B6B73DE87E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C8718A-6C48-4BF1-991B-3B6B73DE87E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C8718A-6C48-4BF1-991B-3B6B73DE87E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9FA8DE3-3B4E-444D-ABF1-7F96A60472C8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,30 @@
+
+MUTASI TRANSAKSI
+
+Nomor Rekening	: 2212090001
+
+Nama			: Christin Gunawan
+
+Periode		: 2022-12-01 - 2022-12-22
+
+==========================================================================================
+Tanggal   	Jenis	Rekening                           Nominal        Keterangan
+==========================================================================================
+
+19/12/2022	DBT  	2212070002  Fenny Cahyawati        Rp15000        utang ayam geprek   
+
+21/12/2022	CRT  	2212070002  Fenny Cahyawati        Rp5000         urunan              
+
+22/12/2022	DBT  	2212070001  Fransisca Priscillia   Rp5000         titip ngeprint      
+
+22/12/2022	CRT  	2212070002  Fenny Cahyawati        Rp1000         fotocopy            
+
+17/12/2022	DBT  	1201234567  Andy                   Rp10000                            
+
+20/12/2022	DBT  	1101234567  Chelsea                Rp100000       hadiah              
+
+21/12/2022	DBT  	1101234568  Miranda                Rp20000        beli menantea       
+
+==========================================================================================
+
+Dicetak tanggal	: 22/12/2022

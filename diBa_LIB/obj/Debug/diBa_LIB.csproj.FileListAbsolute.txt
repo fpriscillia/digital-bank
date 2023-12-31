@@ -1,0 +1,124 @@
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_LIB\obj\Debug\diBa_LIB.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_LIB\bin\Debug\diBa_LIB.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_LIB\bin\Debug\diBa_LIB.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_LIB\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_LIB\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_LIB\obj\Debug\diBa_LIB.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_LIB\obj\Debug\diBa_LIB.pdb
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\diBa_LIB\bin\Debug\diBa_LIB.dll
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\diBa_LIB\bin\Debug\diBa_LIB.pdb
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\diBa_LIB\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\diBa_LIB\obj\Debug\diBa_LIB.csproj.AssemblyReference.cache
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\diBa_LIB\obj\Debug\diBa_LIB.dll
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\diBa_LIB\obj\Debug\diBa_LIB.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\diBa_LIB\obj\Debug\diBa_LIB.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\diBa_LIB\obj\Debug\diBa_LIB.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\diBa_LIB\obj\Debug\diBa_LIB.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\diBa_LIB\bin\Debug\diBa_LIB.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\diBa_LIB\bin\Debug\diBa_LIB.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\diBa_LIB\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\diBa_LIB\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\diBa_LIB\obj\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\diBa_LIB\obj\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\diBa_LIB\obj\Debug\diBa_LIB.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\diBa_LIB\bin\Debug\diBa_LIB.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\diBa_LIB\bin\Debug\diBa_LIB.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\diBa_LIB\obj\Debug\diBa_LIB.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\diBa_LIB\obj\Debug\diBa_LIB.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\diBa_LIB\obj\Debug\diBa_LIB.pdb
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\diBa_LIB\bin\Debug\diBa_LIB.dll
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\diBa_LIB\bin\Debug\diBa_LIB.pdb
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\diBa_LIB\obj\Debug\diBa_LIB.csproj.AssemblyReference.cache
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\diBa_LIB\obj\Debug\diBa_LIB.dll
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\diBa_LIB\obj\Debug\diBa_LIB.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\diBa_LIB\bin\Debug\diBa_LIB.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\diBa_LIB\bin\Debug\diBa_LIB.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\diBa_LIB\obj\Debug\diBa_LIB.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\diBa_LIB\obj\Debug\diBa_LIB.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\diBa_LIB\obj\Debug\diBa_LIB.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\diBa_LIB\bin\Debug\diBa_LIB.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\diBa_LIB\bin\Debug\diBa_LIB.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\diBa_LIB\obj\Debug\diBa_LIB.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\diBa_LIB\obj\Debug\diBa_LIB.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\diBa_LIB\obj\Debug\diBa_LIB.pdb
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\diBa_LIB\bin\Debug\diBa_LIB.dll
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\diBa_LIB\bin\Debug\diBa_LIB.pdb
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\diBa_LIB\obj\Debug\diBa_LIB.dll
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\diBa_LIB\obj\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\diBa_LIB\obj\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\diBa_LIB\obj\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\diBa_LIB\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\diBa_LIB\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+C:\Users\asus\Downloads\TAHAP 2\diBa_LIB\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\TAHAP 2\diBa_LIB\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\TAHAP 2\diBa_LIB\obj\Debug\diBa_LIB.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\TAHAP 2\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\TAHAP 2\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+C:\Users\asus\Downloads\TAHAP 2\diBa_LIB\obj\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\TAHAP 2\diBa_LIB\obj\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\diBa_LIB\obj\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\diBa_LIB\obj\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\diBa_LIB\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\diBa_LIB\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+C:\Users\asus\Downloads\tanggal 7 desember\diBa_LIB\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\tanggal 7 desember\diBa_LIB\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\tanggal 7 desember\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\tanggal 7 desember\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+C:\Users\asus\Downloads\tanggal 7 desember\diBa_LIB\obj\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\tanggal 7 desember\diBa_LIB\obj\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\tanggal 7 desember\diBa_LIB\obj\Debug\diBa_LIB.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\9 desember\diBa_LIB\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\9 desember\diBa_LIB\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\9 desember\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\9 desember\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+C:\Users\asus\Downloads\9 desember\diBa_LIB\obj\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\9 desember\diBa_LIB\obj\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\9 desember\diBa_LIB\obj\Debug\diBa_LIB.csproj.AssemblyReference.cache
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\diBa_LIB\bin\Debug\diBa_LIB.dll
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\diBa_LIB\bin\Debug\diBa_LIB.pdb
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\diBa_LIB\obj\Debug\diBa_LIB.dll
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\diBa_LIB\obj\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\17 desember\diBa_LIB\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\17 desember\diBa_LIB\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\17 desember\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\17 desember\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+C:\Users\asus\Downloads\17 desember\diBa_LIB\obj\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\17 desember\diBa_LIB\obj\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\17 desember\diBa_LIB\obj\Debug\diBa_LIB.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\diBa_LIB\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\diBa_LIB\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\diBa_LIB\obj\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\diBa_LIB\obj\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\FINAL PROJECT\diBa_LIB\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\FINAL PROJECT\diBa_LIB\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\FINAL PROJECT\diBa_LIB\obj\Debug\diBa_LIB.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\FINAL PROJECT\diBa_LIB\obj\Debug\diBa_LIB.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\FINAL PROJECT\diBa_LIB\obj\Debug\diBa_LIB.csproj.CopyComplete
+C:\Users\asus\Downloads\FINAL PROJECT\diBa_LIB\obj\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\FINAL PROJECT\diBa_LIB\obj\Debug\diBa_LIB.pdb

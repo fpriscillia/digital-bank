@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E1C32665-50BD-4620-BC54-D154E0E2822A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DiBa_Project_UAS</RootNamespace>
+    <AssemblyName>DiBa_Project_UAS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="db.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>db.settings</DependentUpon>
+    </Compile>
+    <Compile Include="FormCairDeposito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCairDeposito.Designer.cs">
+      <DependentUpon>FormCairDeposito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChangePass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChangePass.Designer.cs">
+      <DependentUpon>FormChangePass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChangeProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChangeProfile.Designer.cs">
+      <DependentUpon>FormChangeProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarAddressBookEksternal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarAddressBookEksternal.Designer.cs">
+      <DependentUpon>FormDaftarAddressBookEksternal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarAddressBookInternal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarAddressBookInternal.Designer.cs">
+      <DependentUpon>FormDaftarAddressBookInternal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarDeposito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarDeposito.designer.cs">
+      <DependentUpon>FormDaftarDeposito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarEmployee.Designer.cs">
+      <DependentUpon>FormDaftarEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarTabungan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarTabungan.Designer.cs">
+      <DependentUpon>FormDaftarTabungan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDepan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDepan.Designer.cs">
+      <DependentUpon>FormDepan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInbox.Designer.cs">
+      <DependentUpon>FormInbox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInfo.designer.cs">
+      <DependentUpon>FormInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCreatePin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCreatePin.Designer.cs">
+      <DependentUpon>FormCreatePin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInputPin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInputPin.Designer.cs">
+      <DependentUpon>FormInputPin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMutasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMutasi.Designer.cs">
+      <DependentUpon>FormMutasi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahAddressBookEksternal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahAddressBookEksternal.Designer.cs">
+      <DependentUpon>FormTambahAddressBookEksternal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahAddressBookInternal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahAddressBookInternal.Designer.cs">
+      <DependentUpon>FormTambahAddressBookInternal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahDeposito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahDeposito.designer.cs">
+      <DependentUpon>FormTambahDeposito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTopUp.Designer.cs">
+      <DependentUpon>FormTopUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTransaksiEksternal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTransaksiEksternal.Designer.cs">
+      <DependentUpon>FormTransaksiEksternal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTransaksiInternal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTransaksiInternal.Designer.cs">
+      <DependentUpon>FormTransaksiInternal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVerifikasiDeposito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVerifikasiDeposito.designer.cs">
+      <DependentUpon>FormVerifikasiDeposito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVerifikasiTabungan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVerifikasiTabungan.Designer.cs">
+      <DependentUpon>FormVerifikasiTabungan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLoginEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLoginEmployee.Designer.cs">
+      <DependentUpon>FormLoginEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSignUpPengguna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSignUpPengguna.Designer.cs">
+      <DependentUpon>FormSignUpPengguna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLoginPengguna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLoginPengguna.Designer.cs">
+      <DependentUpon>FormLoginPengguna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahEmployee.Designer.cs">
+      <DependentUpon>FormTambahEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUbahEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUbahEmployee.Designer.cs">
+      <DependentUpon>FormUbahEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUtama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUtama.Designer.cs">
+      <DependentUpon>FormUtama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormCairDeposito.resx">
+      <DependentUpon>FormCairDeposito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChangePass.resx">
+      <DependentUpon>FormChangePass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChangeProfile.resx">
+      <DependentUpon>FormChangeProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarAddressBookEksternal.resx">
+      <DependentUpon>FormDaftarAddressBookEksternal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarAddressBookInternal.resx">
+      <DependentUpon>FormDaftarAddressBookInternal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarDeposito.resx">
+      <DependentUpon>FormDaftarDeposito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarEmployee.resx">
+      <DependentUpon>FormDaftarEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarTabungan.resx">
+      <DependentUpon>FormDaftarTabungan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDepan.resx">
+      <DependentUpon>FormDepan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInbox.resx">
+      <DependentUpon>FormInbox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCreatePin.resx">
+      <DependentUpon>FormCreatePin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInfo.resx">
+      <DependentUpon>FormInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInputPin.resx">
+      <DependentUpon>FormInputPin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMutasi.resx">
+      <DependentUpon>FormMutasi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahAddressBookEksternal.resx">
+      <DependentUpon>FormTambahAddressBookEksternal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahAddressBookInternal.resx">
+      <DependentUpon>FormTambahAddressBookInternal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahDeposito.resx">
+      <DependentUpon>FormTambahDeposito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTopUp.resx">
+      <DependentUpon>FormTopUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTransaksiEksternal.resx">
+      <DependentUpon>FormTransaksiEksternal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTransaksiInternal.resx">
+      <DependentUpon>FormTransaksiInternal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVerifikasiDeposito.resx">
+      <DependentUpon>FormVerifikasiDeposito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVerifikasiTabungan.resx">
+      <DependentUpon>FormVerifikasiTabungan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLoginEmployee.resx">
+      <DependentUpon>FormLoginEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahEmployee.resx">
+      <DependentUpon>FormTambahEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSignUpPengguna.resx">
+      <DependentUpon>FormSignUpPengguna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLoginPengguna.resx">
+      <DependentUpon>FormLoginPengguna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUbahEmployee.resx">
+      <DependentUpon>FormUbahEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUtama.resx">
+      <DependentUpon>FormUtama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="db.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>db.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Properties\DataSources\diBa_LIB.Employee.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logofix.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo fix.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\diBa_LIB\diBa_LIB.csproj">
+      <Project>{41c8718a-6c48-4bf1-991b-3b6b73de87e9}</Project>
+      <Name>diBa_LIB</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

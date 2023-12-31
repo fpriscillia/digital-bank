@@ -1,0 +1,486 @@
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSIgnUp.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignIn.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtama.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.Properties.Resources.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\bin\Debug\diBa_LIB.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\bin\Debug\diBa_LIB.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CopyComplete
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe.config
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.exe
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangePass.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe.config
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\bin\Debug\diBa_LIB.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\bin\Debug\diBa_LIB.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangePass.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUp.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignIn.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtama.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.Properties.Resources.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CopyComplete
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.exe
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.pdb
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe.config
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.pdb
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\bin\Debug\MySql.Data.dll
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangePass.resources
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUp.resources
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignIn.resources
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtama.resources
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.Properties.Resources.resources
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CopyComplete
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\project UAS TERBARU\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe.config
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\bin\Debug\diBa_LIB.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\bin\Debug\diBa_LIB.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangePass.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangeProfile.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDepan.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormKonfirmasiPengguna.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginEmployee.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpEmployee.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpPengguna.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginPengguna.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtamaEmployee.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.Properties.Resources.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CopyComplete
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.exe
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\project UAS tgl 25 FIX\project UAS CRUD\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtamaPengguna.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe.config
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.pdb
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\bin\Debug\diBa_LIB.dll
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\bin\Debug\MySql.Data.dll
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\bin\Debug\diBa_LIB.pdb
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.AssemblyReference.cache
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangePass.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangeProfile.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDepan.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormKonfirmasiPengguna.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginEmployee.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpEmployee.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpPengguna.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginPengguna.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtamaEmployee.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtamaPengguna.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.Properties.Resources.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.GenerateResource.cache
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CoreCompileInputs.cache
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CopyComplete
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.exe
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.pdb
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarJenisTransaksi.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe.config
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\bin\Debug\diBa_LIB.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\bin\Debug\diBa_LIB.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangePass.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangeProfile.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarJenisTransaksi.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDepan.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormKonfirmasiPengguna.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginEmployee.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpEmployee.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpPengguna.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginPengguna.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtamaEmployee.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtamaPengguna.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.Properties.Resources.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CopyComplete
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.exe
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\TERBARU\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe.config
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\bin\Debug\diBa_LIB.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\bin\Debug\diBa_LIB.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangePass.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangeProfile.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarJenisTransaksi.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDepan.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormKonfirmasiPengguna.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginEmployee.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpEmployee.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpPengguna.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginPengguna.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.Properties.Resources.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CopyComplete
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.exe
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.pdb
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarEmployee.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarPengguna.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInbox.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUbahEmployee.resources
+C:\Users\ASUS\Documents\Kuliah\Semester 3\Database\PROJECT\diBa_lengkap logo\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtama.resources
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangePass.resources
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangeProfile.resources
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarJenisTransaksi.resources
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarEmployee.resources
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarPengguna.resources
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDepan.resources
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInbox.resources
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormKonfirmasiPengguna.resources
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginEmployee.resources
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpEmployee.resources
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpPengguna.resources
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginPengguna.resources
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUbahEmployee.resources
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtama.resources
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.Properties.Resources.resources
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.GenerateResource.cache
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CoreCompileInputs.cache
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.exe
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.pdb
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe.config
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.pdb
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\bin\Debug\diBa_LIB.dll
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\bin\Debug\MySql.Data.dll
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\bin\Debug\diBa_LIB.pdb
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CopyComplete
+D:\Users\Fenny\Documents\Sistem Informasi Bisnis\Semester 3\Database\project uas\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe.config
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.pdb
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\bin\Debug\MySql.Data.dll
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangePass.resources
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangeProfile.resources
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarJenisTransaksi.resources
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarEmployee.resources
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarPengguna.resources
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDepan.resources
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInbox.resources
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormKonfirmasiPengguna.resources
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginEmployee.resources
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpEmployee.resources
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpPengguna.resources
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginPengguna.resources
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUbahEmployee.resources
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtama.resources
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.Properties.Resources.resources
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CopyComplete
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\sdh ada combobox position\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.pdb
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe.config
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.pdb
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\bin\Debug\MySql.Data.dll
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangePass.resources
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangeProfile.resources
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarJenisTransaksi.resources
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarEmployee.resources
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarPengguna.resources
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDepan.resources
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInbox.resources
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormKonfirmasiPengguna.resources
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginEmployee.resources
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpEmployee.resources
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpPengguna.resources
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginPengguna.resources
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUbahEmployee.resources
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtama.resources
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.Properties.Resources.resources
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CopyComplete
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\TAHAP 2\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.pdb
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangePass.resources
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangeProfile.resources
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarJenisTransaksi.resources
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarEmployee.resources
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarPengguna.resources
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDepan.resources
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInbox.resources
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginEmployee.resources
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpPengguna.resources
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginPengguna.resources
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUbahEmployee.resources
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtama.resources
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.Properties.Resources.resources
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.pdb
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe.config
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.pdb
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\bin\Debug\MySql.Data.dll
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CopyComplete
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarTabungan.resources
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormVerifikasiTabungan.resources
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInputPin.resources
+C:\Users\asus\Downloads\OTW TAHAP 3 hbs cls\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTambahEmployee.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe.config
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.pdb
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\bin\Debug\MySql.Data.dll
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangePass.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangeProfile.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarJenisTransaksi.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarEmployee.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarPengguna.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarTabungan.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDepan.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInbox.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInputPin.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormVerifikasiTabungan.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginEmployee.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTambahEmployee.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpPengguna.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginPengguna.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUbahEmployee.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtama.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.Properties.Resources.resources
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CopyComplete
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\tanggal 7 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.pdb
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe.config
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.pdb
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\bin\Debug\MySql.Data.dll
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangePass.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangeProfile.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarJenisTransaksi.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarEmployee.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarPengguna.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarTabungan.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDepan.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInbox.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInputPin.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTransaksiInternal.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormVerifikasiTabungan.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginEmployee.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTambahEmployee.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpPengguna.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginPengguna.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUbahEmployee.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtama.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.Properties.Resources.resources
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CopyComplete
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\9 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.pdb
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe.config
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.pdb
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\bin\Debug\diBa_LIB.dll
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\bin\Debug\MySql.Data.dll
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\bin\Debug\diBa_LIB.pdb
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangePass.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangeProfile.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarJenisTransaksi.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarEmployee.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarPengguna.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarTabungan.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDepan.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInbox.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInputPin.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTransaksiInternal.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormVerifikasiTabungan.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginEmployee.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTambahEmployee.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpPengguna.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginPengguna.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUbahEmployee.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtama.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.Properties.Resources.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.GenerateResource.cache
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CoreCompileInputs.cache
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CopyComplete
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.exe
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.pdb
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarDeposito.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTambahDeposito.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormVerifikasiDeposito.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTransaksiEksternal.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormCreatePin.resources
+C:\Users\trevi\OneDrive\Dokumen\Trevin Kuliah\SEMESTER 3\PPT\UAS\GABUNGAN\14 desember\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe.config
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.pdb
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\bin\Debug\MySql.Data.dll
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangePass.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangeProfile.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarDeposito.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarJenisTransaksi.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarEmployee.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarPengguna.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarTabungan.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDepan.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInbox.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormCreatePin.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInputPin.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTambahDeposito.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTransaksiEksternal.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTransaksiInternal.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormVerifikasiDeposito.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormVerifikasiTabungan.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginEmployee.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTambahEmployee.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpPengguna.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginPengguna.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUbahEmployee.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtama.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.Properties.Resources.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CopyComplete
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.pdb
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTopUp.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormCairDeposito.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarAddressBookEksternal.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarAddressBookInternal.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTambahAddressBookInternal.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormMutasi.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTambahAddressBookEksternal.resources
+C:\Users\asus\Downloads\17 desember\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInfo.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe.config
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.pdb
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\bin\Debug\MySql.Data.dll
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormCairDeposito.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangePass.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangeProfile.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarAddressBookEksternal.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarAddressBookInternal.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarDeposito.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarEmployee.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarTabungan.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDepan.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInbox.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormCreatePin.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInfo.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInputPin.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormMutasi.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTambahAddressBookEksternal.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTambahAddressBookInternal.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTambahDeposito.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTopUp.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTransaksiEksternal.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTransaksiInternal.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormVerifikasiDeposito.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormVerifikasiTabungan.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginEmployee.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTambahEmployee.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpPengguna.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginPengguna.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUbahEmployee.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtama.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.Properties.Resources.resources
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CopyComplete
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\160721022_Fransisca Priscillia T\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.pdb
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe.config
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\bin\Debug\DiBa_Project_UAS.pdb
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\bin\Debug\diBa_LIB.dll
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\bin\Debug\MySql.Data.dll
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\bin\Debug\diBa_LIB.pdb
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormCairDeposito.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangePass.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormChangeProfile.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarAddressBookEksternal.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarAddressBookInternal.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarDeposito.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarEmployee.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDaftarTabungan.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormDepan.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInbox.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormCreatePin.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInfo.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormInputPin.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormMutasi.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTambahAddressBookEksternal.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTambahAddressBookInternal.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTambahDeposito.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTopUp.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTransaksiEksternal.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTransaksiInternal.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormVerifikasiDeposito.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormVerifikasiTabungan.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginEmployee.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormTambahEmployee.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormSignUpPengguna.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormLoginPengguna.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUbahEmployee.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.FormUtama.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.Properties.Resources.resources
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project UAS.csproj.CopyComplete
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.exe
+C:\Users\asus\Downloads\FINAL PROJECT\DiBa_Project UAS\obj\Debug\DiBa_Project_UAS.pdb
